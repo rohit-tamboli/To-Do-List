@@ -113,9 +113,9 @@ ul li span:hover {
 }
 
 .footer {
-    text-align: center;
-    /* background-color: black;
-    color: white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 2px 0;
 }
 
